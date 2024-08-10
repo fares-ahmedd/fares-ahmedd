@@ -9,7 +9,7 @@
   </a>
 </div>
 
-<img align="right" height="300" src="https://github.com/user-attachments/assets/af590394-c542-4dd1-87f1-1c5c35d4cfae"  />
+<img align="right" height="350" src="https://github.com/user-attachments/assets/af590394-c542-4dd1-87f1-1c5c35d4cfae"  />
   
   <h4>
     Connect with me <img src="https://github.com/user-attachments/assets/48f61302-2632-414b-bc37-4ad58de93e41" alt="Contact hand" width="45" height="45"  />:
