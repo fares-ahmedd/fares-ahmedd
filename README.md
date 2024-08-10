@@ -12,8 +12,11 @@
 <img align="right" height="290" src="https://github.com/user-attachments/assets/af590394-c542-4dd1-87f1-1c5c35d4cfae"  />
   
   <h4>
-    Connect with me <img src="https://github.com/user-attachments/assets/48f61302-2632-414b-bc37-4ad58de93e41" alt="Contact hand" width="45" height="45"  />:
+    Connect with me :
   </h4>
+  <h5>
+    Mobile & Whatsapp: +201206953905
+  </h5>
 <div align="left">
     <a href="https://my-portfolio-orcin-six-80.vercel.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=My Website&logo=google-chrome&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="website logo"  />
