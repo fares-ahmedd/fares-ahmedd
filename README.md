@@ -44,4 +44,17 @@
 |<img src="https://github.com/user-attachments/assets/4f2a391b-b0af-426c-90d4-985e20cf822a" alt="Supabase" width="40"> | <img src="https://github.com/user-attachments/assets/7b4bab62-f4e9-4a68-890d-8c7d1b0e5ec6" alt="Framer motion" width="40" /> | <img src="https://github.com/user-attachments/assets/b463b485-dd52-4332-8d30-6b829b44ae6e" alt="React Query" width="40"> | <img src="https://github.com/user-attachments/assets/1aee569b-0ca7-4a2b-ac26-ff6479f5d18a" alt="Prim" width="60" height="60"> | <img src="https://github.com/user-attachments/assets/3a32c226-39b3-4ce3-82d6-8984c5ab4d01" width="40"> | <img src="https://seeklogo.com/images/G/github-logo-7880D80B8D-seeklogo.com.png" alt="heroku" width="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" alt="Git"> 
 
 
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fares-ahmedd&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fares-ahmedd&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=fares-ahmedd&locale=en&mode=weekly&theme=dracula&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
 
