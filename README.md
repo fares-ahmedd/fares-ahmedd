@@ -11,9 +11,8 @@
 
 <img align="right" height="290" src="https://github.com/user-attachments/assets/af590394-c542-4dd1-87f1-1c5c35d4cfae"  />
   
-  <h4>
-    Connect with me :
-  </h4>
+ ###   Connect with me :
+
   <h5>
     Mobile & Whatsapp: +201206953905
   </h5>
@@ -31,10 +30,18 @@
         <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
     </a>
 
-  <h4>
-    About me 👨🏻‍💻:
-  </h4>
+ 
+   ### About me 👨🏻‍💻:
+
   <p>Hello, my name is Fares Ahmed, and I'm a front-end web developer. I have created large-scale web applications using React and Next.js, focusing on building responsive and interactive user experiences. I enjoy collaborating with others to develop software and am constantly learning new things. I also prioritize performance and accessibility in my work</p>
 </div>
+
+### 🛠 Technologies and tools
+
+
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" alt="HTML"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" alt="CSS"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" alt="Javascript"> | <img src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png" width="40" alt="Tailwind css"> | <img src="https://github.com/user-attachments/assets/a8fe1770-a4eb-47d2-83c3-cf3f6adf9892" width="40" alt="Bootstrap"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40" alt="SASS"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" alt="React"> | <img src="https://github.com/user-attachments/assets/2c4d2b15-7c0b-48e1-8fb9-f1acd08000cd" width="40" alt="Next js"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" alt="Git"> |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+
+
 
 
