@@ -17,7 +17,7 @@
     Mobile & Whatsapp: +201206953905
   </h5>
 <div align="left">
-    <a href="https://my-portfolio-orcin-six-80.vercel.app/" target="_blank">
+    <a href="https://fares-ahmed-portfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=My Website&logo=google-chrome&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="website logo"  />
   </a>
   <a href="https://www.linkedin.com/in/fares-ahmed-3627b7239/" target="_blank">
