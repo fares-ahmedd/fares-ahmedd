@@ -49,11 +49,13 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fares-ahmedd&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fares-ahmedd&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
-  
-</div>
+<p align="center">
+<a href="https://github.com/fares-ahmedd">
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fares-ahmedd&theme=2077"/>
+  <img height="180em" width="55%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fares-ahmedd&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="40%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fares-ahmedd&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 ###
 
