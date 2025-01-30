@@ -11,7 +11,7 @@
 
 <img align="right" height="290" src="https://github.com/user-attachments/assets/af590394-c542-4dd1-87f1-1c5c35d4cfae"  />
   
- ###   Connect with me :
+ ### 🤝  Connect with me :
 
   <h5>
     Mobile & Whatsapp: +201206953905
@@ -31,7 +31,7 @@
     </a>
 
  
-   ### About me 👨🏻‍💻:
+### 👨🏻‍💻 About me :
 
   <p>Hello, my name is Fares Ahmed, and I'm a front-end web developer. I have created large-scale web applications using React and Next.js, focusing on building responsive and interactive user experiences. I enjoy collaborating with others to develop software and am constantly learning new things. I also prioritize performance and accessibility in my work</p>
 </div>
