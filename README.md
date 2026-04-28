@@ -18,7 +18,7 @@
   </h5>
 <div align="left">
     <a href="https://fares-ahmed-portfolio.vercel.app/" target="_blank">
-    <img src="https://camo.githubusercontent.com/903b8f3e6b7f6e768c7c5c5c21d87dd26e89e57c49e50d8095722311a8f8ee60/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f576562736974652d4443313433433f7374796c653d666f722d7468652d6261646765266c6f676f3d6d656469756d266c6f676f436f6c6f723d7768697465" height="25" alt="website logo"  />
+    <img src="https://camo.githubusercontent.com/f3777b41939fdec35dee0daac25162bc7d92f4b163b44c6d8946a27652502789/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f576562736974652d4443313433433f7374796c653d666f722d7468652d6261646765266c6f676f3d6d656469756d266c6f676f436f6c6f723d7768697465" height="25" alt="website logo"  />
   </a>
   <a href="https://www.linkedin.com/in/fares-ahmed-3627b7239/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
